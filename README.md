@@ -1,5 +1,10 @@
 # List-of-Books-App
-O aplicatie de adaugare a cartilor dorite pentru citit.
+O aplicatie de adaugare a cartilor dorite pentru citit
 
-# Screenshot
+## Technologies
+JavaScript DOM<br>
+HTML5<br>
+CSS
+
+## Screenshot
 <img src="https://i.imgur.com/4v7W5nW.png"/>
