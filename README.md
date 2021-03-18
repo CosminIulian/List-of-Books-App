@@ -1,5 +1,5 @@
 # List-of-Books-App
-O aplicatie de adaugare a cartilor dorite pentru citit
+An app for adding the books you want to read
 
 ## Technologies
 JavaScript DOM<br>
